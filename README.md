@@ -1,6 +1,6 @@
 # Todo List Vuejs (todolist)
 
-Qualquer coisa que vc quiser colocar aqui
+Vue.js task - System Analisys and Development 
 
 ## Install the dependencies
 ```bash
@@ -11,16 +11,3 @@ yarn
 ```bash
 quasar dev
 ```
-
-### Lint the files
-```bash
-yarn run lint
-```
-
-### Build the app for production
-```bash
-quasar build
-```
-
-### Customize the configuration
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
