@@ -1,4 +1,4 @@
-# Todo List Vuejs (todolist)
+# Todo List Vuejs
 
 Vue.js task - System Analisys and Development 
 
